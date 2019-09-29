@@ -1,0 +1,4 @@
+(executable
+  (name Client)
+  (public_name Client)
+  (libraries tutorial))

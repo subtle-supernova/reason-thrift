@@ -1,0 +1,4 @@
+(executable
+  (name ServerGen)
+  (public_name ServerGen)
+  (libraries tutorial))

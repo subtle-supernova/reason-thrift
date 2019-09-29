@@ -1,0 +1,4 @@
+(executable
+  (name ClientGen)
+  (public_name ClientGen)
+  (libraries tutorial))
